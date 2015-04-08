@@ -78,11 +78,9 @@
 			isa = PBXGroup;
 			children = (
 				5B872F871AD5E50000E14F25 /* AppDelegate.swift */,
-				5B872F891AD5E50000E14F25 /* ViewController.swift */,
 				5B872F8B1AD5E50000E14F25 /* Main.storyboard */,
-				5B872F8E1AD5E50000E14F25 /* Images.xcassets */,
-				5B872F901AD5E50000E14F25 /* LaunchScreen.xib */,
 				5B872F851AD5E50000E14F25 /* Supporting Files */,
+				5B872F891AD5E50000E14F25 /* ViewController.swift */,
 			);
 			path = AdaptiveWeather;
 			sourceTree = "<group>";
@@ -90,6 +88,8 @@
 		5B872F851AD5E50000E14F25 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				5B872F8E1AD5E50000E14F25 /* Images.xcassets */,
+				5B872F901AD5E50000E14F25 /* LaunchScreen.xib */,
 				5B872F861AD5E50000E14F25 /* Info.plist */,
 			);
 			name = "Supporting Files";
